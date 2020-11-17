@@ -1,0 +1,26 @@
+{
+    "name": "Boston House Classification Evaluation Validation",
+    "description": "Notebook for Boston House Classification Evaluation Validation",
+    "logo": "_images/dataset.png",
+    "has_supporting_content": false,
+    "de_catalog_id": "boston_house_classification_evaluation_validation_notebook",
+    "source_repo": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-notebook.git",
+    "cover": "cover.md",
+    "meta": {
+        "Install time": [
+            "3 minutes"
+        ],
+        "Type": [
+            "Notebook"
+        ],
+        "Tag": [
+            "CSV"
+        ],
+        "Categories": [
+            "Real Estate"
+        ],
+        "Catalog Id": [
+            "boston_house_classification_evaluation_validation_notebook"
+        ]
+    }
+}

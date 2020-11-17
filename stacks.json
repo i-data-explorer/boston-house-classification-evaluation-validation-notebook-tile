@@ -1,0 +1,19 @@
+{
+    "title": "Boston House Classification Evaluation Validation",
+    "description": "Notebook for Boston House Classification Evaluation Validation",
+    "logo": "_images/dataset.png",
+    "enabled": true,
+    "category_label": [
+        "Notebook"
+    ],
+    "tag": [
+        "CSV"
+    ],
+    "de_catalog_id": "boston_house_classification_evaluation_validation_notebook",
+    "categories": [
+        "Real Estate"
+    ],
+    "git_url": "",
+    "git_commit": "",
+    "installTime": "3 minutes"
+}
