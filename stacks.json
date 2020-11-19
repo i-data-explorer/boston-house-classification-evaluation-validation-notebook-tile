@@ -1,6 +1,6 @@
 {
-    "title": "Boston House Classification Evaluation Validation Notebook",
-    "description": "Notebook for Boston House Classification Evaluation Validation",
+    "title": "Boston House Prediction Evaluation Validation Notebook",
+    "description": "Notebook for Boston House Prediction Evaluation Validation",
     "logo": "_images/dataset.png",
     "enabled": true,
     "category_label": [
@@ -9,7 +9,7 @@
     "tag": [
         "CSV"
     ],
-    "de_catalog_id": "boston_house_classification_evaluation_validation_notebook",
+    "de_catalog_id": "boston_house_prediction_evaluation_validation_notebook",
     "categories": [
         "Real Estate"
     ],
