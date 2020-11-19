@@ -1,7 +1,7 @@
 {
     "name": "Boston House Classification Evaluation Validation Notebook",
     "description": "Notebook for Boston House Classification Evaluation Validation",
-    "logo": "_images/dataset.png",
+    "logo": "_images/notebook.png",
     "has_supporting_content": false,
     "de_catalog_id": "boston_house_classification_evaluation_validation_notebook",
     "source_repo": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-notebook.git",
