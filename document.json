@@ -1,7 +1,7 @@
 {
     "name": "Boston House Prediction Evaluation Validation Notebook",
     "description": "Notebook for Boston House Prediction Evaluation Validation",
-    "logo": "_images/notebook.png",
+    "logo": "_images/notebook-1.png",
     "has_supporting_content": false,
     "de_catalog_id": "boston_house_prediction_evaluation_validation_notebook",
     "source_repo": "https://github.com/i-data-explorer/boston-house-classification-evaluation-validation-notebook.git",
