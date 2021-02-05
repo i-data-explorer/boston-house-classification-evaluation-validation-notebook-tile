@@ -11,7 +11,7 @@
   "is_s3_type": false,
   "buckets":[],
     "meta": {
-        "Install time": [
+        "Install Time": [
             "3 minutes"
         ],
         "Type": [
@@ -22,6 +22,15 @@
         ],
         "Categories": [
             "Real Estate"
+        ],
+        "Update Frequency": [
+            "Monthly"
+         ],
+        "Last Updated": [
+            "01/01/2021"
+        ],
+        "License": [
+            "N/A"
         ],
         "Catalog Id": [
             "boston_house_prediction_evaluation_validation_notebook"
